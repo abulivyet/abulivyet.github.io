@@ -2,8 +2,6 @@
 title: "Welcome to Blowfish! :tada:"
 description: "This page was built using the Blowfish theme for Hugo."
 ---
-
-
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center pe-3 text-primary-400">
     {{< icon "triangle-exclamation" >}}
@@ -14,16 +12,13 @@ description: "This page was built using the Blowfish theme for Hugo."
       id="switch-layout-button"
       class="px-4 mx-[3px] !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
     >
-      Switch layout &orarr;
+      Switch layout ↻
     </button>
   </span>
 </div>
 
-
 ```shell
 npx blowfish-tools
-```  
+```
 
 {{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
-
-
