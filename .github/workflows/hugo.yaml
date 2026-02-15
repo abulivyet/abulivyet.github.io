@@ -5,6 +5,7 @@ on:
     branches:
       - main  # 如果你的默认分支叫 master，请改为 master
 
+      
 jobs:
   deploy:
     runs-on: ubuntu-latest
