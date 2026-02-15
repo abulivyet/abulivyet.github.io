@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Miniatura on Blowfish</title><link>https://abulivyet.github.io/es/tags/miniatura/</link><description>Recent content in Miniatura on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>es</language><copyright>© 2026 Blowfish</copyright><lastBuildDate>Mon, 26 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://abulivyet.github.io/es/tags/miniatura/index.xml" rel="self" type="application/rss+xml"/><item><title>Miniaturas</title><link>https://abulivyet.github.io/es/docs/thumbnails/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://abulivyet.github.io/es/docs/thumbnails/</guid><description>&lt;h2 class="relative group"&gt;Miniaturas
+ &lt;div id="miniaturas" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#miniaturas" aria-label="Ancla"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Blowfish fue mejorado para facilitar añadir soporte visual a tus publicaciones. Para hacerlo, solo necesitas colocar un archivo de imagen (casi todos los formatos son soportados pero recomendamos &lt;code&gt;.png&lt;/code&gt; o &lt;code&gt;.jpg&lt;/code&gt;) que comience con &lt;code&gt;feature*&lt;/code&gt; dentro del directorio principal de tu artículo, como se muestra en el ejemplo de abajo.&lt;/p&gt;</description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://abulivyet.github.io/docs/thumbnails/featured.svg"/></item><item><title>Miniaturas</title><link>https://abulivyet.github.io/es/samples/thumbnail_sample/</link><pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate><guid>https://abulivyet.github.io/es/samples/thumbnail_sample/</guid><description>Un ejemplo rápido de cómo empezar a usar miniaturas en tus artículos.</description></item></channel></rss>

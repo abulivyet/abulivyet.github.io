@@ -1,3 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>生活 on 我的技术笔记</title><link>https://example.org/tags/%E7%94%9F%E6%B4%BB/</link><description>Recent content in 生活 on 我的技术笔记</description><generator>Hugo -- 0.155.3</generator><language>zh-cn</language><lastBuildDate>Sun, 15 Feb 2026 20:05:38 +0800</lastBuildDate><atom:link href="https://example.org/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://example.org/posts/my-first-post/</link><pubDate>Sun, 15 Feb 2026 20:05:38 +0800</pubDate><guid>https://example.org/posts/my-first-post/</guid><description>&lt;h2 id="这是一个二级标题"&gt;这是一个二级标题&lt;/h2&gt;
-&lt;p&gt;Hello World! 这是我用 Hugo 搭建的第一个博客。&lt;/p&gt;
-&lt;p&gt;你好你好你好&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>生活 on Blowfish</title><link>https://abulivyet.github.io/tags/%E7%94%9F%E6%B4%BB/</link><description>Recent content in 生活 on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor><webMaster>nuno@n9o.xyz (Blowfish)</webMaster><copyright>© 2026 Blowfish</copyright><lastBuildDate>Sun, 15 Feb 2026 20:05:38 +0800</lastBuildDate><atom:link href="https://abulivyet.github.io/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://abulivyet.github.io/posts/my-first-post/</link><pubDate>Sun, 15 Feb 2026 20:05:38 +0800</pubDate><author>nuno@n9o.xyz (Blowfish)</author><guid>https://abulivyet.github.io/posts/my-first-post/</guid><description>&lt;h2 class="relative group"&gt;这是一个二级标题
+ &lt;div id="这是一个二级标题" class="anchor"&gt;&lt;/div&gt;
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e8%bf%99%e6%98%af%e4%b8%80%e4%b8%aa%e4%ba%8c%e7%ba%a7%e6%a0%87%e9%a2%98" aria-label="Anchor"&gt;#&lt;/a&gt;
+ &lt;/span&gt;
+ 
+&lt;/h2&gt;
+&lt;p&gt;Hello World! 这是我用 Hugo 搭建的第一个博客。&lt;/p&gt;</description></item></channel></rss>
