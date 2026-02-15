@@ -1,0 +1,44 @@
+baseURL = 'https://example.org/'
+languageCode = 'zh-cn'
+title = '我的技术笔记' # 你的博客标题
+theme = "PaperMod"
+
+
+
+[params]
+    env = "production"
+    title = "我的技术笔记"
+    description = "记录生活，分享技术"
+    keywords = ["Blog", "Hugo", "PaperMod"]
+    author = "YourName"
+    
+    # 首页显示设置
+    displayFullContent = false
+    showReadingTime = true
+    showShareButtons = true
+    showCodeCopyButtons = true # 显示代码复制按钮
+
+    [params.homeInfoParams]
+        Title = "👋 欢迎来到我的博客"
+        Content = "这里是我的个人精神角落，我会在这里分享技术心得。"
+
+    # 导航栏配置
+    [[menu.main]]
+        identifier = "posts"
+        name = "文章"
+        url = "/posts"
+        weight = 10
+    [[menu.main]]
+        identifier = "tags"
+        name = "标签"
+        url = "/tags"
+        weight = 20
+
+    [outputs]
+    home = ["HTML", "RSS", "JSON"] # 必须有 JSON，搜索才有效
+
+    [[menu.main]]
+    identifier = "search"
+    name = "🔍 搜索"
+    url = "/search"
+    weight = 30
