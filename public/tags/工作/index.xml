@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>工作 on 我的博客</title>
+    <link>http://localhost:1313/tags/%E5%B7%A5%E4%BD%9C/</link>
+    <description>Recent content in 工作 on 我的博客</description>
+    <generator>Hugo -- 0.155.3</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2025年，重新出发</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>新的一年，开始用博客记录自己的成长。</description>
+    </item>
+  </channel>
+</rss>
