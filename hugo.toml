@@ -13,6 +13,7 @@ theme = "PaperMod"
   ShowPostNavLinks = true      # 文章上下篇导航
   ShowBreadCrumbs = true       # 面包屑导航
   ShowCodeCopyButtons = true   # 代码块复制按钮
+  comments = true
 
 [params.homeInfoParams]
   Title = "Hi, 欢迎来到我的博客"
