@@ -22,6 +22,15 @@ theme = "PaperMod"
   name = "github"
   url = "https://abulivyet.github.io/"
 
+[params.giscus]
+  repo = "abulivyet/abulivyet.github.io"
+  repoId = "R_kgDORaIVzw"
+  category = "Announcements"
+  categoryId = "DIC_kwDORaIVz84C3UQC"
+  mapping = "pathname"
+  theme = "preferred_color_scheme"
+  lang = "zh-CN"
+
 [menu]
   [[menu.main]]
     name = "文章"
@@ -35,3 +44,10 @@ theme = "PaperMod"
     name = "关于"
     url = "/about/"
     weight = 3
+  [[menu.main]]
+  name = "搜索"
+  url = "/search/"
+  weight = 4
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
